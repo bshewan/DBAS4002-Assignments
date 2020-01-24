@@ -23,6 +23,3 @@
 All future assignments will use this same repository to store all documentation and scripts created.
 
 **If you have any questions about this process, please ask your instructor!**
-
-## Testing Push To Students
-## Testing Again!
